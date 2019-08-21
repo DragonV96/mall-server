@@ -19,6 +19,13 @@ target/
 *.iml
 *.ipr
 
+### temp file ###
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
